@@ -12,7 +12,7 @@ function App() {
         {/* This will display "To Do List" on the DOM */}
         <Header />
         {/* This will display the inputs and button on the DOM */}
-        <Inputs />
+        {/* <Inputs /> */}
       </header>
 
     </div>
